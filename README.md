@@ -1,5 +1,3 @@
-## Welcome to My Pages
-
 ### Support or Contact
 
-@http:\\www.whoispm.com(http:\\www.whoispm.com)
+[link](http:\\www.whoispm.com)
